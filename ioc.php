@@ -1,5 +1,5 @@
 <?php
-
+// 参考https://learnku.com/docs/laravel-core-concept/5.5/Ioc%E5%AE%B9%E5%99%A8,%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85/3019
 interface Log
 {
     function write();
